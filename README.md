@@ -431,3 +431,44 @@ The candidate's performance will be evaluated based on the following:
 * **Code quality:** Is the code well-structured, readable, and idiomatic C++? Does it adhere to best practices (e.g., `[[nodiscard]]` usage in `LoadConfig` is acknowledged and respected in the test)?
 * **Problem-solving approach:** How does the candidate approach debugging or troubleshooting if issues arise during the coding exercise?
 * **Clarity of explanation:** Can the candidate clearly articulate their thought process and justify their design decisions?
+
+# How to Submit Your Assignment
+To ensure a smooth submission process and proper evaluation of your work, please follow the steps outlined below:
+
+## Create a Repository:
+
+Set up a new GitHub repository for this assignment in your github personal account. Name the repository as `ModernCppErrorHandling`.
+Initialize the repository with a README.md file that provides a brief description of the project and its structure.
+
+## Commit Your Unit Test:
+
+Develop your solution using a standard C++ structure (or JetBrains CLion).
+Ensure that your unit test includes comprehensive comments and explanations as specified in the assignment.
+Commit and push your completed unit test to the repository. Ensure that the unit test is well-documented and easy to comprehend.
+
+## Include Additional Resources:
+
+If your project utilizes any additional scripts or data files, ensure they are included in the repository and properly referenced in the codebase.
+Ensure that all necessary files to run the unit test and replicate the results are available in the repository.
+
+## Prepare for Submission:
+
+Double-check your repository to ensure that it is public and accessible. This allows the evaluation team to review your work without any issues.
+Review your email to ensure that it includes the repository link and any other required information as specified in the assignment guidelines.
+
+## Submit Your Work:
+
+Send an email to service@smartsurgerytek.com with the subject line "Mid-Level Software Engineer (C++) Technical Assignment Submission".
+
+## In the body of the email, include:
+Your full name and contact information.
+A brief introduction or cover letter that provides context about your submission.
+The link to your GitHub repository containing the completed assignment.
+
+## Follow Up:
+
+After submitting your assignment, you may follow up with an email if you have not received an acknowledgment within a reasonable time frame (e.g., one week).
+Be prepared to discuss your project and answer any questions that may arise during the review process.
+By following these steps, you can ensure that your submission is organized and professional, reflecting your abilities and attention to detail. Good luck with your assignment!
+
+----
