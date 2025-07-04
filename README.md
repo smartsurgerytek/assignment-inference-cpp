@@ -1,4 +1,5 @@
-# Part I - Background Reading - Modern C++ Error Handling: A Synergistic Approach with `std::expected`, `std::variant`, and `std::visit`
+# Part I - Background Reading
+# Modern C++ Error Handling: A Synergistic Approach with `std::expected`, `std::variant`, and `std::visit`
 
 ## 1\. Introduction to Modern C++ Error Handling
 
